@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Old training checkpoints
+checkpoints/epoch_*.pth
+
+# Generated results
+results/eval_merged.csv
+
+# Temporary uploads
+uploads/*
+
+# Keep the folder itself
+!uploads/.gitkeep
+
+data/raw_images/

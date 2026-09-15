@@ -1,0 +1,10 @@
+TEAM NAME - TWIN SPARK
+INSTITUTE NAME - INTEGRAL UNIVERSITY
+
+NAME            ROLE
+Abdul Saboor  — Database, research, drone-development
+Intakhab Nabi — ML model, training, inference, drone-development
+Akhlaque Nabi — Backend, API
+Anamta Rizvi  — Frontend
+Aasiya Faseeh — Frontend
+Abdul Ali     — Robotics (rover, sprinkling system)
