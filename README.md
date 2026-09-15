@@ -354,7 +354,9 @@ which can be used to inspect prediction results produced by the system.
 
 ## 🖼️ Project Screenshots
 <p align="center"> <img src="assets/screenshots/Sample-image1.jpg" width="30%"> <img src="assets/screenshots/Sample-image2.jpg" width="30%"> <img src="assets/screenshots/Sample-image3.jpg" width="30%"> </p>
+
 ---
+
 ## 🏆 Smart India Hackathon 2025
 Team Twin Spark
 
