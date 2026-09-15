@@ -14,7 +14,7 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
 # CONFIG - change if your checkpoints or classes are in other paths
-CHECKPOINT_PATH = "checkpoints/epoch_30.pth"   # default checkpoint to use
+CHECKPOINT_PATH = "checkpoints/best_model.pth"   # default checkpoint to use
 CLASSES_FILE = "data/classes.txt"
 PREDICTIONS_CSV = "results/predictions.csv"
 IMG_SIZE = "224"
