@@ -347,12 +347,15 @@ The repository includes:
 ```text
 results/predictions.csv
 ```
+
 which can be used to inspect prediction results produced by the system.
+
 ---
+
 ## 🖼️ Project Screenshots
 <p align="center"> <img src="assets/screenshots/Sample-image1.jpg" width="30%"> <img src="assets/screenshots/Sample-image2.jpg" width="30%"> <img src="assets/screenshots/Sample-image3.jpg" width="30%"> </p>
 ---
-🏆 Smart India Hackathon 2025
+## 🏆 Smart India Hackathon 2025
 Team Twin Spark
 
 Our team developed this project as part of our Smart India Hackathon
@@ -360,7 +363,7 @@ Our team developed this project as part of our Smart India Hackathon
 
 Achievement
 
-🏆 Grand Finalist — Smart India Hackathon 2025
+## 🏆 Grand Finalist — Smart India Hackathon 2025
 
 Problem Statement
 
@@ -371,7 +374,7 @@ Institution
 
 Integral University
 
-👥 Team
+### 👥 Team
 
 The project was developed collaboratively by Team Twin Spark for
 Smart India Hackathon 2025.
@@ -380,7 +383,7 @@ The team worked across different areas including AI/ML, software
 development, system integration and the overall agricultural automation
 concept.
 
-🌱 Why Precision Agriculture?
+### 🌱 Why Precision Agriculture?
 
 Agriculture increasingly requires solutions that can make better use of
 resources while maintaining crop health.
@@ -415,28 +418,34 @@ Infection Assessment
         ▼
 Targeted Treatment
 ```
+
 The project demonstrates how AI can be used as a decision-support
 component in precision agriculture.
+
 ---
+
 ## 🔮 Future Scope
 
 The current project serves as a prototype for an intelligent agricultural
 spraying system. Future improvements could include:
 
-📷 Real-time camera-based plant monitoring
-🤖 Automated spraying mechanisms
-📡 IoT-based communication between the AI system and spraying hardware
-🗺️ Field-level disease mapping
-📍 GPS-based location tracking
-🌱 More detailed disease-severity estimation
-⚡ Edge deployment for real-time inference
-☁️ Cloud-based crop-health monitoring
-📊 Historical crop-health analytics
-🎯 Variable-rate pesticide application
+### 📷 Real-time camera-based plant monitoring
+### 🤖 Automated spraying mechanisms
+### 📡 IoT-based communication between the AI system and spraying hardware
+### 🗺️ Field-level disease mapping
+### 📍 GPS-based location tracking
+### 🌱 More detailed disease-severity estimation
+### ⚡ Edge deployment for real-time inference
+### ☁️ Cloud-based crop-health monitoring
+### 📊 Historical crop-health analytics
+### 🎯 Variable-rate pesticide application
+
 ---
+
 ## 📚 What This Project Demonstrates
 
 This project combines multiple areas of computer science and engineering:
+
 ```text
 Artificial Intelligence
         +
@@ -452,13 +461,14 @@ Agricultural Automation
         =
 Precision Agriculture Solution
 ```
+
 It also represents our team's experience of taking an idea from a
 hackathon problem statement through development, experimentation,
 integration and presentation at the SIH 2025 Grand Finale.
 
 ---
 
-##👨‍💻 Developer Contribution
+## 👨‍💻 Developer Contribution
 
 My primary contribution to Team Twin Spark's SIH 2025 project was the
 AI/ML pipeline.
@@ -472,7 +482,7 @@ AI component can be explored directly.
 
 ---
 
-##📌 Project Status
+## 📌 Project Status
 
 ### 🏆 SIH 2025 Grand Finalist
 
